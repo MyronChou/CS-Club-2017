@@ -23,7 +23,7 @@ public class Geam extends Canvas implements Runnable {
 	private Random r;
 	private Handler handler;
 	
-	
+	// Hi Guys it's your classic person here!
 	public Geam() {
 		this.addKeyListener(new KeyInput(handler));
 		// ^ Tells computer to listen for key inputs
